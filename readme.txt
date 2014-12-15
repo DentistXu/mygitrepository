@@ -19,3 +19,5 @@ conflict resolved
 new branch
 
 new branch merge with ff
+
+modified by user2

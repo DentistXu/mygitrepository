@@ -13,3 +13,5 @@ add a line to commit
 add a new branch
 
 this is a confilict
+create a new branch for new feature
+conflict resolved

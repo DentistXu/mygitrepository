@@ -5,3 +5,5 @@ git is wroten by Linus
 git is free
 
 git is quick
+
+add a LICENSE file

@@ -21,3 +21,4 @@ new branch
 new branch merge with ff
 
 modified by user2
+user2 add a new branch dev

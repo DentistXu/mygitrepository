@@ -7,3 +7,5 @@ git is free
 git is quick
 
 add a LICENSE file
+
+add a line to commit

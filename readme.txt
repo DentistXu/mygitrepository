@@ -17,3 +17,5 @@ create a new branch for new feature
 conflict resolved
 
 new branch
+
+new branch merge with ff

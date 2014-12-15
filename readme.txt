@@ -11,3 +11,5 @@ add a LICENSE file
 add a line to commit
 
 add a new branch
+
+create a new branch for new feature
